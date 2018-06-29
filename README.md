@@ -1,5 +1,7 @@
 # Matching Game
 
+![alt tag](https://raw.githubusercontent.com/ehcodes/matchingGame/master/img/matchingGame.gif)
+
 ## How It's Made:
 
 **Tech Used:** HTML, CSS, Javascript (jQuery)
